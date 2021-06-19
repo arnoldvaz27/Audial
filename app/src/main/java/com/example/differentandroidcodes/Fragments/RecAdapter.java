@@ -79,7 +79,7 @@ public class RecAdapter extends RecyclerView.Adapter<RecViewHolder> {
             fileList.remove(position);
             notifyItemRemoved(position);
             notifyItemRangeChanged(position,fileList.size());
-            Snackbar.make(view,"File Deleted : ",Snackbar.LENGTH_LONG)
+            Snackbar.make(view,"File Deleted",Snackbar.LENGTH_LONG)
                     .show();
         }
         else{
