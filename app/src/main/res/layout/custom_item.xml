@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:id="@+id/container"
+    android:background="@android:color/transparent">
+
+    <ImageView
+        android:id="@+id/imgRec"
+        android:src="@drawable/dot"
+        android:padding="10dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:id="@+id/txtName"
+        android:gravity="center_vertical"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:layout_toEndOf="@id/imgRec"
+        android:layout_toStartOf="@id/menu_more"
+        android:scrollHorizontally="true"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/menu_more"
+        android:src="@drawable/more_vert"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="2dp"
+        android:layout_alignParentEnd="true"
+        android:padding="5dp"
+        app:tint="@color/white"
+        android:contentDescription="@string/todo"  />
+
+
+</RelativeLayout>
