@@ -1,5 +1,5 @@
 # Audial
-This is an Audio Recorder Android Application. The users can record the audio, delete any audio file, or can also share the audio with others over any application platform.
+Audial is an open source project where people can contribute as per their knowledge of Android Studio, Java Programming and Github.
 
 ![OpenSource](https://img.shields.io/badge/Open%20Source-All%20pull%20requests%20will%20be%20verified%20and%20accepted-brightgreen)
 
@@ -7,7 +7,7 @@ This is an Audio Recorder Android Application. The users can record the audio, d
 ![Thank you](https://img.shields.io/badge/Arnold%20Vaz-Thank%20you%20for%20visiting%20this%20open%20source%20project%20repository-red)
 
 ## About ![About](https://img.shields.io/badge/Audial-About-orange)
-Extensions is an Android Java based application that can be used to get all the files from the selected file extension. It is developed with the focus of getting all the files at one place. This application consists of all the file, images and other document tyes extensions that are available for Android, Apple, Windows and other Operating Systems.
+This is an Audio Recorder Android Application. Users can record the audio, delete any audio file, or can also share the audio files with others over any internet application platform.
 
 
 ## Features ![Features](https://img.shields.io/badge/Audial-Features-blue)
