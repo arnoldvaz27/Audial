@@ -1,4 +1,4 @@
-package com.example.differentandroidcodes.Adapter;
+package com.example.audial.Adapter;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

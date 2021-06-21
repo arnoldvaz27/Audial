@@ -1,4 +1,4 @@
-package com.example.differentandroidcodes.Fragments;
+package com.example.audial.Fragments;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,9 +12,9 @@ import androidx.annotation.NonNull;
 import androidx.core.content.FileProvider;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.differentandroidcodes.R;
-import com.example.differentandroidcodes.Holder.RecViewHolder;
-import com.example.differentandroidcodes.Listener.onSelectListener;
+import com.example.audial.R;
+import com.example.audial.Holder.RecViewHolder;
+import com.example.audial.Listener.onSelectListener;
 import com.google.android.material.snackbar.Snackbar;
 
 import java.io.File;

@@ -1,4 +1,4 @@
-package com.example.differentandroidcodes;
+package com.example.audial;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -8,9 +8,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.viewpager.widget.ViewPager;
 
-import com.example.differentandroidcodes.Adapter.ViewPagerAdapter;
-import com.example.differentandroidcodes.Fragments.RecorderFragment;
-import com.example.differentandroidcodes.Fragments.RecordingsFragment;
+import com.example.audial.Adapter.ViewPagerAdapter;
+import com.example.audial.Fragments.RecorderFragment;
+import com.example.audial.Fragments.RecordingsFragment;
 import com.google.android.material.tabs.TabLayout;
 import com.karumi.dexter.Dexter;
 import com.karumi.dexter.MultiplePermissionsReport;

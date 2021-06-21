@@ -1,4 +1,4 @@
-package com.example.differentandroidcodes.Fragments;
+package com.example.audial.Fragments;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -15,8 +15,8 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.differentandroidcodes.R;
-import com.example.differentandroidcodes.Listener.onSelectListener;
+import com.example.audial.R;
+import com.example.audial.Listener.onSelectListener;
 
 import java.io.File;
 import java.util.ArrayList;

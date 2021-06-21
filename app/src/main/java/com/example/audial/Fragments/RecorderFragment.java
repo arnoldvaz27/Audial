@@ -1,4 +1,4 @@
-package com.example.differentandroidcodes.Fragments;
+package com.example.audial.Fragments;
 
 import android.Manifest;
 import android.media.MediaRecorder;
@@ -17,7 +17,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.example.differentandroidcodes.R;
+import com.example.audial.R;
 import com.karumi.dexter.Dexter;
 import com.karumi.dexter.MultiplePermissionsReport;
 import com.karumi.dexter.PermissionToken;

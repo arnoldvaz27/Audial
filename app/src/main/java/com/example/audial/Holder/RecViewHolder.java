@@ -1,4 +1,4 @@
-package com.example.differentandroidcodes.Holder;
+package com.example.audial.Holder;
 
 import android.view.View;
 import android.widget.ImageView;
@@ -8,7 +8,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.differentandroidcodes.R;
+import com.example.audial.R;
 
 public class RecViewHolder extends RecyclerView.ViewHolder {
 
